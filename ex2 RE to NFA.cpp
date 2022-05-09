@@ -10,7 +10,7 @@ int main()
 	
 	for (a = 0; a < 20; a++) {
 		for (b = 0; b < 3; b++) {
-			q[a][b] = 0;
+		c	q[a][b] = 0;
 		}
 	}
 	
